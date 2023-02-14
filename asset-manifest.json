@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b42350a3.css",
+    "main.js": "/static/js/main.f12e7677.js",
+    "static/media/benito.png": "/static/media/benito.5c2e6c726c35c626d77c.png",
+    "static/media/weather-app.png": "/static/media/weather-app.11b9fbc8513a27949899.png",
+    "static/media/tech-blog.png": "/static/media/tech-blog.18d3a814cc5238533a74.png",
+    "static/media/background.png": "/static/media/background.a09fbd0d11727027a0b0.png",
+    "static/media/concertFinder.png": "/static/media/concertFinder.59eb01f34b9cd77d85c0.png",
+    "static/media/note-taker.png": "/static/media/note-taker.a4607a95dccc1cfb8644.png",
+    "static/media/text-editor.png": "/static/media/text-editor.be5c62e53b5bb6e68238.png",
+    "static/media/quiz.png": "/static/media/quiz.a55b207a41cecf77be0d.png",
+    "static/media/laptop.jpeg": "/static/media/laptop.ffe31dc388e067557c1e.jpeg",
+    "static/media/twytter.png": "/static/media/twytter.acb821ac74b822e3c2f7.png",
+    "index.html": "/index.html",
+    "main.b42350a3.css.map": "/static/css/main.b42350a3.css.map",
+    "main.f12e7677.js.map": "/static/js/main.f12e7677.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42350a3.css",
+    "static/js/main.f12e7677.js"
+  ]
+}
