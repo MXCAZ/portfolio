@@ -1,0 +1,37 @@
+.container {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: larger;
+  margin-top: 10%;
+  margin-right: 5%;
+  margin-left: 5%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: linear-gradient(#337fc1, #cee1f2);
+  color: whitesmoke;
+  height: 300px;
+  width: auto;
+  border-radius: 15px;
+}
+
+.container1 .container2 .container3 {
+  padding-top: 30px;
+}
+
+@media (max-width: 970px) {
+  .container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 400px;
+    margin-top: 30%;
+  }
+  .container1 {
+    margin-left: 30px;
+    font-size: 24px;
+  }
+  li {
+    font-size: 30px;
+  }
+}

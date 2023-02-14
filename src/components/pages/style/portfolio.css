@@ -1,0 +1,14 @@
+.portfolio {
+  height: auto;
+}
+.center {
+  text-align: center;
+  padding-top: 50px;
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+.containerPortfolio {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
