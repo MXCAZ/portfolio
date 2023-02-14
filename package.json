@@ -1,5 +1,5 @@
 {
-  "homepage": "https://MXCAZ.github.io/portfolio",
+  "homepage": "https://MXCAZ.github.io/",
   "name": "react-porfolio",
   "version": "0.1.0",
   "private": false,
@@ -44,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
